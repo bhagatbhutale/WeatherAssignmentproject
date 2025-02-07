@@ -19,7 +19,6 @@ body {
   height: 860px;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid var(--font-color-main);
   border-radius: 40px;
 }
 
